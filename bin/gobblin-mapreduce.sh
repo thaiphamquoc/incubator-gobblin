@@ -154,6 +154,7 @@ LIBJARS=(
   $FWDIR_LIB/gobblin-crypto-$GOBBLIN_VERSION.jar
   $FWDIR_LIB/gobblin-crypto-provider-$GOBBLIN_VERSION.jar
   $FWDIR_LIB/gobblin-data-management-$GOBBLIN_VERSION.jar
+  $FWDIR_LIB/gobblin-kafka-common-$GOBBLIN_VERSION.jar
   $FWDIR_LIB/gobblin-metastore-$GOBBLIN_VERSION.jar
   $FWDIR_LIB/gobblin-metrics-$GOBBLIN_VERSION.jar
   $FWDIR_LIB/gobblin-metrics-base-$GOBBLIN_VERSION.jar
@@ -163,7 +164,7 @@ LIBJARS=(
   $FWDIR_LIB/avro-mapred-1.8.1.jar
   $FWDIR_LIB/commons-lang3-3.4.jar
   $FWDIR_LIB/config-1.2.1.jar
-  $FWDIR_LIB/data-2.6.0.jar
+  $FWDIR_LIB/data-11.0.0.jar
   $FWDIR_LIB/gson-2.6.2.jar
   $FWDIR_LIB/guava-15.0.jar
   $FWDIR_LIB/guava-retrying-2.0.0.jar
